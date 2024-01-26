@@ -107,7 +107,7 @@ Ensures that the user enters valid latitude and longitude values.
 - `k`: A constant value representing the number of shortest paths to find and visualize.
 
 ### Output
-![img!](map/output/ImgTerminal.png)
-![K_Shortest_Paths_Map_3!](map/output/K_Shortest_Paths_Map_3.jpg)
+![img!](output/ImgTerminal.png)
+![K_Shortest_Paths_Map_3!](output/K_Shortest_Paths_Map_3.jpg)
 
 Feel free to customize script parameters and explore different parts of the code for future enhancements.
